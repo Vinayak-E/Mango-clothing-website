@@ -1,0 +1,3 @@
+http://st.mngbcn.com/static/assets/img/logo/mango.svg
+
+Cannot download image; Failed to fetch
